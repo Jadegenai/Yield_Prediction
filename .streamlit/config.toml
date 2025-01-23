@@ -1,0 +1,7 @@
+[theme]
+base="light"
+
+[server]
+headless = true
+enableCORS = true
+allowedOrigins = ["https://java-efficiency-1409.lightning.force.com", "https://*.salesforce.com"]
